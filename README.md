@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lipkis
-- 👀 I’m interested in Front-end and Full Stack Development
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT, etc.
-- 💞️ I’m not looking to collaborate on any projects at the moment
+- 👀 I’m a Software Engineer interested in Full Stack Development
+- 🌱 I have skills in using and implementing technologies like HTML/CSS/JAVASCRIPT.
+- 💞️ I’m available to collaborate on any projects at the moment
 - 📫 How to reach me: Email me @ dbezekiel77@gmail.com, or send a Direct Message to @db_ezekiel on Twitter.
 
 <!---
