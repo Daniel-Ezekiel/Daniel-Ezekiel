@@ -70,7 +70,7 @@ See [my website](https://danielezekiel.netlify.app) for more information!
       <h3 align="center">DanielEzekiel.com</h3>
       <br />
         <a target="_blank" href="https://danielezekiel.netlify.app">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/gif3.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -87,7 +87,7 @@ See [my website](https://danielezekiel.netlify.app) for more information!
       <h3 align="center">Space Club OAU</h3>
         <br />
         <a target="_blank" href="https://spacecluboau.com.ng/">
-          <img src="images/gif3.gif" width="100%" alt="Space Club OAU"/>
+          <img src="images/gif4.gif" width="100%" alt="Space Club OAU"/>
         </a>
         <br />
         <p align="center">
