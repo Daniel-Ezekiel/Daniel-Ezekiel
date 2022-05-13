@@ -18,7 +18,7 @@
   </a>
 </p>
 
-I am a solution-driven developer, passionate about making my mark and contributing to advances within the tech industry. I passionately and effectively implement my skills in solving problems and also look dapper while I'm at it. My driving force is the proper use of power of technology as a tool for positive change, with a background in Engineering, Physics, and Math.
+I am a solution-driven developer, passionate about making my mark and contributing to advances within the tech industry. I passionately and effectively implement my skills in solving problems and also look dapper while I'm at it. With a background in Engineering, Physics, and Math, my driving force is the proper use of the power of technology as a tool for positive change.
 
 See [my website](https://danielezekiel.netlify.app) for more information!
 
