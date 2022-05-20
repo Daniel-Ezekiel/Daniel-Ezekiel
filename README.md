@@ -147,8 +147,9 @@ See [my website](https://danielezekiel.netlify.app) for more information!
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-ezekiel&show_icons=true&locale=en" width="50%" alt="daniel-ezekiel" />
+</p>
 
-  &nbsp;
+<p align="center">&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-ezekiel&" width="50%" alt="daniel-ezekiel" />
 </p>
 
