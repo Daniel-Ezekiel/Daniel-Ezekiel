@@ -1,4 +1,5 @@
 <h1 align="center">Daniel Ezekiel</h1> 
+<img src="https://www.canva.com/design/DAFAru21eKw/AEQ4EvnZk3KmoZaTZGlI5g/edit?utm_content=DAFAru21eKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%">
 
 <p align="center">
   <a href="https://danielezekiel.netlify.app" target="_blank">
