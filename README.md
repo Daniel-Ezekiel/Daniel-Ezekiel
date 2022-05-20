@@ -1,5 +1,5 @@
 <h1 align="center">Daniel Ezekiel</h1> 
-<img src="https://github.com/Daniel-Ezekiel/Daniel-Ezekiel/blob/main/images/Black%20Purple%20Modern%20Name%20Twitch%20Banner.png" width="100%">
+<img src="https://github.com/Daniel-Ezekiel/Daniel-Ezekiel/blob/main/images/BRG2%20Blue%20Energetic%20Typographic%20Twitch%20Banner.png" width="100%">
 
 <p align="center">
   <a href="https://danielezekiel.netlify.app" target="_blank">
