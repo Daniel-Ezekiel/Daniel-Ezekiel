@@ -74,29 +74,31 @@ See [my website](https://danielezekiel.netlify.app) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/daniel-ezekiel/the-cocktail-bar" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://thecocktailbar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
+          <a href="https://github.com/daniel-ezekiel/the-cocktail-bar" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="http://thecocktailbar.netlify.app" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - This Web Application allows the user to choose a drink, enter that drink name and get information about that drink. In the event that the user can't decide, a carousel of different drinks is displayed for them to choose from.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Space Club OAU</h3>
+      <h3 align="center">Pokemon-pedia</h3>
         <br />
-        <a target="_blank" href="https://spacecluboau.com.ng/">
+        <a target="_blank" href="https://pokecardds.netlify.app/">
           <img src="images/gif4.gif" width="100%" alt="Space Club OAU"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://spacecluboau.com.ng" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>WordPress, PHP, HTML5 & CSS3</strong> - Want to join a community ready to help you improve your STEM capacity and dive into the deep mysteries within Space. Space CLub OAU is that community, a non-profit geared towards empowering individuals and enthusiasts with knowledge about space.</p>
+           <a href="https://github.com/Daniel-Ezekiel/Pokemon-pedia" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://pokecardds.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, JavaScript & Pokemon API</strong> - This is a web app that helps to get more information about any pokemon, so far it exists.</p>
     </td>
   </tr>
 </table>
