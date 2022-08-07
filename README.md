@@ -86,7 +86,7 @@ See [my website](https://danielezekiel.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Pokemon-pedia</h3>
         <br />
-        <a target="_blank" href="https://pokecardds.netlify.app/">
+        <a href="https://pokecardds.netlify.app/" target="_blank">
           <img src="images/gif4.gif" width="100%" alt="Space Club OAU"/>
         </a>
         <br />
