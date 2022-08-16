@@ -1,7 +1,7 @@
 <img src="https://github.com/Daniel-Ezekiel/Daniel-Ezekiel/blob/main/images/BRG2%20Blue%20Energetic%20Typographic%20Twitch%20Banner.png" width="100%">
 
 <p align="center">
-  <a href="https://danielezekiel.netlify.app" target="_blank">
+  <a href="https://danielezekiel.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/db-ezekiel" target="_blank">
@@ -13,14 +13,14 @@
   <a href="https://angel.co/u/daniel-ezekiel-1" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://danielezekiel.netlify.app/resume/Daniel%20Ezekiel%20%C2%B7%20Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1_Shc_HwlyFdw8UpJwYKBnxxvazNtFG62/view" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
 I am a solution-driven developer, passionate about making my mark and contributing to advances within the tech industry. I passionately and effectively implement my skills in solving problems and also look dapper while I'm at it. With a background in Engineering, Physics, and Math, my driving force is the proper use of the power of technology as a tool for positive change.
 
-See [my website](https://danielezekiel.netlify.app) for more information!
+See [my website](https://danielezekiel.me/) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -130,7 +130,7 @@ See [my website](https://danielezekiel.netlify.app) for more information!
 
 
 <p align="center">
-  <a href="https://danielezekiel.netlify.app" target="_blank">
+  <a href="https://danielezekiel.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/db-ezekiel" target="_blank">
@@ -142,7 +142,7 @@ See [my website](https://danielezekiel.netlify.app) for more information!
   <a href="https://https://angel.co/u/daniel-ezekiel-1" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://danielezekiel.netlify.app/resume/Daniel%20Ezekiel%20%C2%B7%20Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1_Shc_HwlyFdw8UpJwYKBnxxvazNtFG62/view" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
@@ -154,4 +154,3 @@ See [my website](https://danielezekiel.netlify.app) for more information!
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-ezekiel&" width="50%" alt="daniel-ezekiel" />
 </p>
-
