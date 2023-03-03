@@ -22,7 +22,6 @@ I am a solution-driven developer, passionate about making my mark and contributi
 
 See [my website](https://danielezekiel.me/) for more information!
 
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -86,15 +85,15 @@ See [my website](https://danielezekiel.me/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Pokemon-pedia</h3>
         <br />
-        <a href="https://pokecardds.netlify.app/" target="_blank">
+        <a href="https://pokemon-pedia-v2.vercel.app/" target="_blank">
           <img src="images/gif4.gif" width="100%" alt="Space Club OAU"/>
         </a>
         <br />
         <p align="center">
-           <a href="https://github.com/Daniel-Ezekiel/Pokemon-pedia" target="_blank">
+           <a href="https://github.com/Daniel-Ezekiel/Pokemon-pedia-v2" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>
-          <a href="https://pokecardds.netlify.app/" target="_blank">
+          <a href="https://pokemon-pedia-v2.vercel.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
           </a>
         </p>
@@ -103,15 +102,13 @@ See [my website](https://danielezekiel.me/) for more information!
   </tr>
 </table>
 
-
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=316c5e&style=plastic&logo=tailwindcss"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
@@ -120,14 +117,9 @@ See [my website](https://danielezekiel.me/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=23555f&style=plastic&logo=github">
 </p>
 
-
-
 ---
 
-
 <h1 align="center">Connect</h1>
-
-
 
 <p align="center">
   <a href="https://danielezekiel.me/" target="_blank">
