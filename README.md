@@ -1,4 +1,4 @@
-<img src="https://github.com/Daniel-Ezekiel/Daniel-Ezekiel/blob/main/images/BRG2%20Blue%20Energetic%20Typographic%20Twitch%20Banner.png" width="100%">
+<img src="./images/profile-banner" width="100%">
 
 <p align="center">
   <a href="https://danielezekiel.me/" target="_blank">
