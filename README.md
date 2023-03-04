@@ -1,4 +1,4 @@
-<img src="./images/profile-banner" width="100%">
+<img src="https://github.com/Daniel-Ezekiel/Daniel-Ezekiel/blob/main/images/profile-banner.png" width="100%">
 
 <p align="center">
   <a href="https://danielezekiel.me/" target="_blank">
